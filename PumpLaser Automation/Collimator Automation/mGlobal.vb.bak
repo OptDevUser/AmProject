@@ -4,14 +4,12 @@ Imports System.Reflection
 Imports Microsoft.VisualBasic
 Imports PumpLaser_Automation.cIMCHandle
 Imports PumpLaser_Automation.AxisInfo
-'
-' 全局模块 | 公共函数和变量
-'
+
 Module mGlobal
 
 #Region "Var"
     ' global var
-    Public TargetValue() As String = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}  ' 11个值， 功率值 | 功能：记录异常功率信息，并保存至文件 |UpDataToFrom刷新这个值并保存， 异常选择忽略回刷新这个值， 手动录入会刷新这个值
+    Public TargetValue() As String = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}  '11个值， 功率值 | 功能：记录异常功率信息，并保存至文件 |UpDataToFrom刷新这个值并保存， 异常选择忽略回刷新这个值， 手动录入会刷新这个值
     Public MySqlStr As New MysqlInfor   ' 产品数据MySqlStr：UI上数据Page里面控件值（产品器件信息）, 以及主要是运行过程中产生的（TargetValue）功率值|也可手动录入   《-》  csv文件
     Public EStop As Boolean             ' 紧急终止标记 '! when set=true?
     Public Ini As New cIniTool          ' INI 《-》Function.ini
