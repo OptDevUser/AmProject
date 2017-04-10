@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Collimator Automation", "Collimator Automation.vbproj", "{CA856EEB-0A02-4506-8E18-D472FEDDCC26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA856EEB-0A02-4506-8E18-D472FEDDCC26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA856EEB-0A02-4506-8E18-D472FEDDCC26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA856EEB-0A02-4506-8E18-D472FEDDCC26}.Debug|x86.ActiveCfg = Debug|x86
+		{CA856EEB-0A02-4506-8E18-D472FEDDCC26}.Debug|x86.Build.0 = Debug|x86
+		{CA856EEB-0A02-4506-8E18-D472FEDDCC26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA856EEB-0A02-4506-8E18-D472FEDDCC26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA856EEB-0A02-4506-8E18-D472FEDDCC26}.Release|x86.ActiveCfg = Release|x86
+		{CA856EEB-0A02-4506-8E18-D472FEDDCC26}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

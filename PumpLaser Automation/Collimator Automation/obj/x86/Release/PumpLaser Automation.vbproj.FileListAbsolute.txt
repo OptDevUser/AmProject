@@ -1,0 +1,39 @@
+F:\PumpLaser Automation20170220\Collimator Automation\bin\Release\PumpLaser Automation.exe.config
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\Interop.VIDEOCAPXLib.dll
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser Automation.vbproj.ResolveComReference.cache
+F:\PumpLaser Automation20170220\Collimator Automation\bin\Release\PumpLaser Automation.exe
+F:\PumpLaser Automation20170220\Collimator Automation\bin\Release\PumpLaser Automation.pdb
+F:\PumpLaser Automation20170220\Collimator Automation\bin\Release\PumpLaser Automation.xml
+F:\PumpLaser Automation20170220\Collimator Automation\bin\Release\BrainDll.dll
+F:\PumpLaser Automation20170220\Collimator Automation\bin\Release\WebCam_Capture.dll
+F:\PumpLaser Automation20170220\Collimator Automation\bin\Release\BrainDll.pdb
+F:\PumpLaser Automation20170220\Collimator Automation\bin\Release\BrainDll.xml
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser Automation.vbprojResolveAssemblyReference.cache
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser_Automation.AirSettingView.resources
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser_Automation.AxisContorl.resources
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser_Automation.AxisMove.resources
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser_Automation.AxisSettingView.resources
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser_Automation.Camra.resources
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser_Automation.ContorlSetting.resources
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser_Automation.Flow.resources
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser_Automation.Form2.resources
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser_Automation.FrmChooseCamera.resources
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser_Automation.MainFrm.resources
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser_Automation.自动校准轴.resources
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser_Automation.IOControl1.resources
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser_Automation.IOSetting1.resources
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser_Automation.Resources.resources
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser_Automation.SaveDataSetting.resources
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser_Automation.Test.resources
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser_Automation.光谱坐标.resources
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser_Automation.函数说明.resources
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser_Automation.回原点编辑.resources
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser_Automation.归零.resources
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser_Automation.恒慧电源测试.resources
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser_Automation.控制器配置.resources
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser_Automation.暂存器.resources
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser_Automation.流程编辑.resources
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser Automation.vbproj.GenerateResource.Cache
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser Automation.exe
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser Automation.xml
+F:\PumpLaser Automation20170220\Collimator Automation\obj\x86\Release\PumpLaser Automation.pdb

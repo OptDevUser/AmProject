@@ -1,0 +1,131 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+QSFP
+</name>
+</assembly>
+<members>
+<member name="F:QSFP.cIMCHandle._NetCardInformation">
+	<summary>
+ 网卡的讯息
+ </summary>
+	<remarks></remarks>
+</member><member name="F:QSFP.cIMCHandle._IMCCardInformation">
+	<summary>
+ IMC卡的讯息
+ </summary>
+	<remarks></remarks>
+</member><member name="M:QSFP.cIMCHandle.SearchNet">
+	<summary>
+ Search NetCard
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:QSFP.cIMCHandle.OpenDev">
+	<summary>
+ 打开设备
+ </summary>
+	<remarks></remarks>
+</member><member name="M:QSFP.cIMCHandle.SearchDev(System.Int32)">
+	<summary>
+ 搜索对应网卡的IMC
+ </summary>
+	<param name="NetCardId"></param>
+	<remarks></remarks>
+</member><member name="M:QSFP.cIMCHandle.InitalCard(System.Int32)">
+	<summary>
+ 初始化对应轴的参数
+ </summary>
+	<param name="Axis"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:QSFP.cIMCHandle.MoveDone(System.Int32)">
+	<summary>
+ 检测马达是否处于停滞状态
+ </summary>
+	<param name="AxisNo"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:QSFP.cIMCHandle.JOG(System.Int32,System.Double,System.Int32,QSFP.cIMCHandle.JogTpye)">
+	<summary>
+ Jog
+ </summary>
+	<param name="AxisNo"></param>
+	<param name="VelSpeed"></param>
+	<param name="Pos"></param>
+	<param name="JogMode"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:QSFP.cIMCHandle.StopJog(System.Int32,QSFP.cIMCHandle.JogTpye)">
+	<summary>
+	</summary>
+	<param name="AxisNo"></param>
+	<param name="JogMode"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:QSFP.cIMCHandle.MoveVel(System.Int32,System.Double,System.Int32,System.Int32,System.Int32)">
+	<summary>
+ 对应轴相对位移
+ </summary>
+	<param name="AxisNo"></param>
+	<param name="pos"></param>
+	<param name="IntialVel"></param>
+	<param name="MaxVel"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:QSFP.cIMCHandle.MoveAbs(System.Int32,System.Double,System.Int32)">
+	<summary>
+ 对应轴绝对位移
+ </summary>
+	<param name="AxisNo"></param>
+	<param name="pos"></param>
+	<param name="Timeout"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:QSFP.cIMCHandle.HomeAll(System.Int32,System.Int16)">
+	<summary>
+	</summary>
+	<param name="Timeout"></param>
+	<param name="ID"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:QSFP.cIMCHandle.GetCurrentPos(System.Int32)">
+	<summary>
+ 获取对应轴的位置
+ </summary>
+	<param name="AxisNo"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:QSFP.cIMCHandle.ORG(System.Int32)">
+	<summary>
+ 读取原点状态
+ </summary>
+	<param name="AxisNo"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:QSFP.cIMCHandle.PLM(System.Int32)">
+	<summary>
+ 读取正极限状态
+ </summary>
+	<param name="AxisNo"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:QSFP.cIMCHandle.NLM(System.Int32)">
+	<summary>
+ 读取负极限状态
+ </summary>
+	<param name="AxisNo"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:QSFP.cIMCHandle.WriteOut(System.Int32,System.Int16)">
+	<summary>
+ 设置输出端口及读取端口
+ </summary>
+	<param name="Index">端口号</param>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

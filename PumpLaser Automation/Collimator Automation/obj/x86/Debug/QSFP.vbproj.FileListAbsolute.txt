@@ -1,0 +1,96 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\QSFP\bin\Debug\QSFP.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\QSFP\bin\Debug\QSFP.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\QSFP\bin\Debug\QSFP.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\QSFP\bin\Debug\BrainDll.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\QSFP\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\QSFP\bin\Debug\BrainDll.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\QSFP\bin\Debug\BrainDll.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\QSFP\bin\Debug\ZedGraph.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\QSFP\obj\x86\Debug\QSFP.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\QSFP\obj\x86\Debug\QSFP.FrmMain.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\QSFP\obj\x86\Debug\QSFP.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\QSFP\obj\x86\Debug\QSFP.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\QSFP\obj\x86\Debug\QSFP.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\QSFP\obj\x86\Debug\QSFP.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\QSFP\obj\x86\Debug\QSFP.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\QSFP\obj\x86\Debug\QSFP.流程编辑.resources
+E:\【OPTOAUTO】\QSFP\QSFP\bin\Debug\QSFP.exe
+E:\【OPTOAUTO】\QSFP\QSFP\bin\Debug\QSFP.pdb
+E:\【OPTOAUTO】\QSFP\QSFP\bin\Debug\QSFP.xml
+E:\【OPTOAUTO】\QSFP\QSFP\bin\Debug\BrainDll.dll
+E:\【OPTOAUTO】\QSFP\QSFP\bin\Debug\BrainDll.pdb
+E:\【OPTOAUTO】\QSFP\QSFP\bin\Debug\BrainDll.xml
+E:\【OPTOAUTO】\QSFP\QSFP\obj\x86\Debug\QSFP.AirSettingView.resources
+E:\【OPTOAUTO】\QSFP\QSFP\obj\x86\Debug\QSFP.AxisContorl.resources
+E:\【OPTOAUTO】\QSFP\QSFP\obj\x86\Debug\QSFP.AxisMove.resources
+E:\【OPTOAUTO】\QSFP\QSFP\obj\x86\Debug\QSFP.AxisSettingView.resources
+E:\【OPTOAUTO】\QSFP\QSFP\obj\x86\Debug\QSFP.Flow.resources
+E:\【OPTOAUTO】\QSFP\QSFP\obj\x86\Debug\QSFP.MainFrm.resources
+E:\【OPTOAUTO】\QSFP\QSFP\obj\x86\Debug\QSFP.Resources.resources
+E:\【OPTOAUTO】\QSFP\QSFP\obj\x86\Debug\QSFP.Test.resources
+E:\【OPTOAUTO】\QSFP\QSFP\obj\x86\Debug\QSFP.函数说明.resources
+E:\【OPTOAUTO】\QSFP\QSFP\obj\x86\Debug\QSFP.回原点编辑.resources
+E:\【OPTOAUTO】\QSFP\QSFP\obj\x86\Debug\QSFP.流程编辑.resources
+E:\【OPTOAUTO】\QSFP\QSFP\obj\x86\Debug\QSFP.vbproj.GenerateResource.Cache
+E:\【OPTOAUTO】\QSFP\QSFP\obj\x86\Debug\QSFP.exe
+E:\【OPTOAUTO】\QSFP\QSFP\obj\x86\Debug\QSFP.xml
+E:\【OPTOAUTO】\QSFP\QSFP\obj\x86\Debug\QSFP.pdb
+E:\【OPTOAUTO】\QSFP\QSFP\obj\x86\Debug\QSFP.vbprojResolveAssemblyReference.cache
+E:\【OPTOAUTO】\QSFP20160812\QSFP\bin\Debug\QSFP.exe
+E:\【OPTOAUTO】\QSFP20160812\QSFP\bin\Debug\QSFP.pdb
+E:\【OPTOAUTO】\QSFP20160812\QSFP\bin\Debug\QSFP.xml
+E:\【OPTOAUTO】\QSFP20160812\QSFP\obj\x86\Debug\QSFP.AirSettingView.resources
+E:\【OPTOAUTO】\QSFP20160812\QSFP\obj\x86\Debug\QSFP.AxisContorl.resources
+E:\【OPTOAUTO】\QSFP20160812\QSFP\obj\x86\Debug\QSFP.AxisMove.resources
+E:\【OPTOAUTO】\QSFP20160812\QSFP\obj\x86\Debug\QSFP.AxisSettingView.resources
+E:\【OPTOAUTO】\QSFP20160812\QSFP\obj\x86\Debug\QSFP.Flow.resources
+E:\【OPTOAUTO】\QSFP20160812\QSFP\obj\x86\Debug\QSFP.MainFrm.resources
+E:\【OPTOAUTO】\QSFP20160812\QSFP\obj\x86\Debug\QSFP.Resources.resources
+E:\【OPTOAUTO】\QSFP20160812\QSFP\obj\x86\Debug\QSFP.Test.resources
+E:\【OPTOAUTO】\QSFP20160812\QSFP\obj\x86\Debug\QSFP.函数说明.resources
+E:\【OPTOAUTO】\QSFP20160812\QSFP\obj\x86\Debug\QSFP.回原点编辑.resources
+E:\【OPTOAUTO】\QSFP20160812\QSFP\obj\x86\Debug\QSFP.流程编辑.resources
+E:\【OPTOAUTO】\QSFP20160812\QSFP\obj\x86\Debug\QSFP.vbproj.GenerateResource.Cache
+E:\【OPTOAUTO】\QSFP20160812\QSFP\obj\x86\Debug\QSFP.exe
+E:\【OPTOAUTO】\QSFP20160812\QSFP\obj\x86\Debug\QSFP.xml
+E:\【OPTOAUTO】\QSFP20160812\QSFP\obj\x86\Debug\QSFP.pdb
+E:\【OPTOAUTO】\QSFP20160814\QSFP\obj\x86\Debug\QSFP.exe
+E:\【OPTOAUTO】\QSFP20160814\QSFP\obj\x86\Debug\QSFP.xml
+E:\【OPTOAUTO】\QSFP20160814\QSFP\obj\x86\Debug\QSFP.pdb
+E:\【OPTOAUTO】\QSFP20160814\QSFP\bin\Debug\QSFP.exe
+E:\【OPTOAUTO】\QSFP20160814\QSFP\bin\Debug\QSFP.pdb
+E:\【OPTOAUTO】\QSFP20160814\QSFP\bin\Debug\QSFP.xml
+E:\【OPTOAUTO】\QSFP20160814\QSFP\obj\x86\Debug\QSFP.AirSettingView.resources
+E:\【OPTOAUTO】\QSFP20160814\QSFP\obj\x86\Debug\QSFP.AxisContorl.resources
+E:\【OPTOAUTO】\QSFP20160814\QSFP\obj\x86\Debug\QSFP.AxisMove.resources
+E:\【OPTOAUTO】\QSFP20160814\QSFP\obj\x86\Debug\QSFP.AxisSettingView.resources
+E:\【OPTOAUTO】\QSFP20160814\QSFP\obj\x86\Debug\QSFP.Flow.resources
+E:\【OPTOAUTO】\QSFP20160814\QSFP\obj\x86\Debug\QSFP.MainFrm.resources
+E:\【OPTOAUTO】\QSFP20160814\QSFP\obj\x86\Debug\QSFP.Resources.resources
+E:\【OPTOAUTO】\QSFP20160814\QSFP\obj\x86\Debug\QSFP.Test.resources
+E:\【OPTOAUTO】\QSFP20160814\QSFP\obj\x86\Debug\QSFP.函数说明.resources
+E:\【OPTOAUTO】\QSFP20160814\QSFP\obj\x86\Debug\QSFP.回原点编辑.resources
+E:\【OPTOAUTO】\QSFP20160814\QSFP\obj\x86\Debug\QSFP.流程编辑.resources
+E:\【OPTOAUTO】\QSFP20160814\QSFP\obj\x86\Debug\QSFP.vbproj.GenerateResource.Cache
+E:\【OPTOAUTO】\Collimator Automation20160814\QSFP\bin\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\Collimator Automation20160814\QSFP\bin\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation20160814\QSFP\bin\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation20160814\QSFP\obj\x86\Debug\QSFP.vbprojResolveAssemblyReference.cache
+E:\【OPTOAUTO】\Collimator Automation20160814\QSFP\obj\x86\Debug\Collimator_Automation.AirSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation20160814\QSFP\obj\x86\Debug\Collimator_Automation.AxisContorl.resources
+E:\【OPTOAUTO】\Collimator Automation20160814\QSFP\obj\x86\Debug\Collimator_Automation.AxisMove.resources
+E:\【OPTOAUTO】\Collimator Automation20160814\QSFP\obj\x86\Debug\Collimator_Automation.AxisSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation20160814\QSFP\obj\x86\Debug\Collimator_Automation.Flow.resources
+E:\【OPTOAUTO】\Collimator Automation20160814\QSFP\obj\x86\Debug\Collimator_Automation.MainFrm.resources
+E:\【OPTOAUTO】\Collimator Automation20160814\QSFP\obj\x86\Debug\Collimator_Automation.Resources.resources
+E:\【OPTOAUTO】\Collimator Automation20160814\QSFP\obj\x86\Debug\Collimator_Automation.Test.resources
+E:\【OPTOAUTO】\Collimator Automation20160814\QSFP\obj\x86\Debug\Collimator_Automation.函数说明.resources
+E:\【OPTOAUTO】\Collimator Automation20160814\QSFP\obj\x86\Debug\Collimator_Automation.回原点编辑.resources
+E:\【OPTOAUTO】\Collimator Automation20160814\QSFP\obj\x86\Debug\Collimator_Automation.流程编辑.resources
+E:\【OPTOAUTO】\Collimator Automation20160814\QSFP\obj\x86\Debug\QSFP.vbproj.GenerateResource.Cache
+E:\【OPTOAUTO】\Collimator Automation20160814\QSFP\obj\x86\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\Collimator Automation20160814\QSFP\obj\x86\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation20160814\QSFP\obj\x86\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation20160814\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\Collimator Automation20160814\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation20160814\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb

@@ -1,0 +1,814 @@
+E:\【OPTOAUTO】\Collimator Automation20160814\Collimator Automation\bin\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\Collimator Automation20160814\Collimator Automation\obj\x86\Debug\Collimator_Automation.AirSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation20160814\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisContorl.resources
+E:\【OPTOAUTO】\Collimator Automation20160814\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisMove.resources
+E:\【OPTOAUTO】\Collimator Automation20160814\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation20160814\Collimator Automation\obj\x86\Debug\Collimator_Automation.Flow.resources
+E:\【OPTOAUTO】\Collimator Automation20160814\Collimator Automation\obj\x86\Debug\Collimator_Automation.MainFrm.resources
+E:\【OPTOAUTO】\Collimator Automation20160814\Collimator Automation\obj\x86\Debug\Collimator_Automation.Resources.resources
+E:\【OPTOAUTO】\Collimator Automation20160814\Collimator Automation\obj\x86\Debug\Collimator_Automation.Test.resources
+E:\【OPTOAUTO】\Collimator Automation20160814\Collimator Automation\obj\x86\Debug\Collimator_Automation.函数说明.resources
+E:\【OPTOAUTO】\Collimator Automation20160814\Collimator Automation\obj\x86\Debug\Collimator_Automation.回原点编辑.resources
+E:\【OPTOAUTO】\Collimator Automation20160814\Collimator Automation\obj\x86\Debug\Collimator_Automation.流程编辑.resources
+E:\【OPTOAUTO】\Collimator Automation20160814\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.GenerateResource.Cache
+E:\【OPTOAUTO】\Collimator Automation20160814\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\Collimator Automation20160814\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation20160814\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation20160814\Collimator Automation\bin\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation20160814\Collimator Automation\bin\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation20160814\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+E:\【OPTOAUTO】\Collimator Automation20160816\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+E:\【OPTOAUTO】\Collimator Automation20160816\Collimator Automation\bin\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation20160816\Collimator Automation\bin\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation20160816\Collimator Automation\obj\x86\Debug\Collimator Automation.vbprojResolveAssemblyReference.cache
+E:\【OPTOAUTO】\Collimator Automation20160816\Collimator Automation\obj\x86\Debug\Collimator_Automation.AirSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation20160816\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisContorl.resources
+E:\【OPTOAUTO】\Collimator Automation20160816\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisMove.resources
+E:\【OPTOAUTO】\Collimator Automation20160816\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation20160816\Collimator Automation\obj\x86\Debug\Collimator_Automation.Flow.resources
+E:\【OPTOAUTO】\Collimator Automation20160816\Collimator Automation\obj\x86\Debug\Collimator_Automation.MainFrm.resources
+E:\【OPTOAUTO】\Collimator Automation20160816\Collimator Automation\obj\x86\Debug\Collimator_Automation.Resources.resources
+E:\【OPTOAUTO】\Collimator Automation20160816\Collimator Automation\obj\x86\Debug\Collimator_Automation.Test.resources
+E:\【OPTOAUTO】\Collimator Automation20160816\Collimator Automation\obj\x86\Debug\Collimator_Automation.函数说明.resources
+E:\【OPTOAUTO】\Collimator Automation20160816\Collimator Automation\obj\x86\Debug\Collimator_Automation.回原点编辑.resources
+E:\【OPTOAUTO】\Collimator Automation20160816\Collimator Automation\obj\x86\Debug\Collimator_Automation.流程编辑.resources
+E:\【OPTOAUTO】\Collimator Automation20160816\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.GenerateResource.Cache
+E:\【OPTOAUTO】\Collimator Automation20160816\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\Collimator Automation20160816\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation20160816\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\bin\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\bin\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\obj\x86\Debug\Collimator Automation.vbprojResolveAssemblyReference.cache
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\obj\x86\Debug\Collimator_Automation.AirSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisContorl.resources
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisMove.resources
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\obj\x86\Debug\Collimator_Automation.Flow.resources
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\obj\x86\Debug\Collimator_Automation.MainFrm.resources
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\obj\x86\Debug\Collimator_Automation.Resources.resources
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\obj\x86\Debug\Collimator_Automation.Test.resources
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\obj\x86\Debug\Collimator_Automation.函数说明.resources
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\obj\x86\Debug\Collimator_Automation.回原点编辑.resources
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\obj\x86\Debug\Collimator_Automation.流程编辑.resources
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.GenerateResource.Cache
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\bin\Debug\CameraInterface.dll
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\bin\Debug\CameraLib.dll
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\bin\Debug\AxInterop.DNVideoXLib.dll
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\bin\Debug\DirectShowLib-2005.dll
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\bin\Debug\Interop.DNVideoXLib.dll
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\bin\Debug\CameraInterface.pdb
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\bin\Debug\CameraInterface.xml
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\bin\Debug\CameraLib.pdb
+E:\【OPTOAUTO】\Collimator Automation20160819\Collimator Automation\bin\Debug\CameraLib.xml
+E:\【OPTOAUTO】\Collimator Automation20160820\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+E:\【OPTOAUTO】\Collimator Automation20160820\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\Collimator Automation20160820\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation20160820\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation20160820\Collimator Automation\bin\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation20160820\Collimator Automation\bin\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation20160820\Collimator Automation\bin\Debug\DirectShowLib-2005.dll
+E:\【OPTOAUTO】\Collimator Automation20160820\Collimator Automation\obj\x86\Debug\Collimator Automation.vbprojResolveAssemblyReference.cache
+E:\【OPTOAUTO】\Collimator Automation20160820\Collimator Automation\obj\x86\Debug\Collimator_Automation.AirSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation20160820\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisContorl.resources
+E:\【OPTOAUTO】\Collimator Automation20160820\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisMove.resources
+E:\【OPTOAUTO】\Collimator Automation20160820\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation20160820\Collimator Automation\obj\x86\Debug\Collimator_Automation.Flow.resources
+E:\【OPTOAUTO】\Collimator Automation20160820\Collimator Automation\obj\x86\Debug\Collimator_Automation.MainFrm.resources
+E:\【OPTOAUTO】\Collimator Automation20160820\Collimator Automation\obj\x86\Debug\Collimator_Automation.Resources.resources
+E:\【OPTOAUTO】\Collimator Automation20160820\Collimator Automation\obj\x86\Debug\Collimator_Automation.Test.resources
+E:\【OPTOAUTO】\Collimator Automation20160820\Collimator Automation\obj\x86\Debug\Collimator_Automation.函数说明.resources
+E:\【OPTOAUTO】\Collimator Automation20160820\Collimator Automation\obj\x86\Debug\Collimator_Automation.回原点编辑.resources
+E:\【OPTOAUTO】\Collimator Automation20160820\Collimator Automation\obj\x86\Debug\Collimator_Automation.流程编辑.resources
+E:\【OPTOAUTO】\Collimator Automation20160820\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.GenerateResource.Cache
+E:\【OPTOAUTO】\Collimator Automation20160820\Collimator Automation\bin\Debug\WebCam_Capture.dll
+E:\【OPTOAUTO】\Collimator Automation20160820\Collimator Automation\obj\x86\Debug\Collimator_Automation.FrmChooseCamera.resources
+E:\【OPTOAUTO】\Collimator Automation20160824\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+E:\【OPTOAUTO】\Collimator Automation20160824\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\Collimator Automation20160824\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation20160824\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation20160824\Collimator Automation\bin\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation20160824\Collimator Automation\bin\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation20160824\Collimator Automation\bin\Debug\DirectShowLib-2005.dll
+E:\【OPTOAUTO】\Collimator Automation20160824\Collimator Automation\bin\Debug\WebCam_Capture.dll
+E:\【OPTOAUTO】\Collimator Automation20160824\Collimator Automation\obj\x86\Debug\Collimator Automation.vbprojResolveAssemblyReference.cache
+E:\【OPTOAUTO】\Collimator Automation20160824\Collimator Automation\obj\x86\Debug\Collimator_Automation.AirSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation20160824\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisContorl.resources
+E:\【OPTOAUTO】\Collimator Automation20160824\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisMove.resources
+E:\【OPTOAUTO】\Collimator Automation20160824\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation20160824\Collimator Automation\obj\x86\Debug\Collimator_Automation.Flow.resources
+E:\【OPTOAUTO】\Collimator Automation20160824\Collimator Automation\obj\x86\Debug\Collimator_Automation.FrmChooseCamera.resources
+E:\【OPTOAUTO】\Collimator Automation20160824\Collimator Automation\obj\x86\Debug\Collimator_Automation.MainFrm.resources
+E:\【OPTOAUTO】\Collimator Automation20160824\Collimator Automation\obj\x86\Debug\Collimator_Automation.Resources.resources
+E:\【OPTOAUTO】\Collimator Automation20160824\Collimator Automation\obj\x86\Debug\Collimator_Automation.Test.resources
+E:\【OPTOAUTO】\Collimator Automation20160824\Collimator Automation\obj\x86\Debug\Collimator_Automation.函数说明.resources
+E:\【OPTOAUTO】\Collimator Automation20160824\Collimator Automation\obj\x86\Debug\Collimator_Automation.回原点编辑.resources
+E:\【OPTOAUTO】\Collimator Automation20160824\Collimator Automation\obj\x86\Debug\Collimator_Automation.流程编辑.resources
+E:\【OPTOAUTO】\Collimator Automation20160824\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.GenerateResource.Cache
+E:\【OPTOAUTO】\Collimator Automation20160825\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+E:\【OPTOAUTO】\Collimator Automation20160825\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\Collimator Automation20160825\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation20160825\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation20160825\Collimator Automation\bin\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation20160825\Collimator Automation\bin\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation20160825\Collimator Automation\bin\Debug\DirectShowLib-2005.dll
+E:\【OPTOAUTO】\Collimator Automation20160825\Collimator Automation\bin\Debug\WebCam_Capture.dll
+E:\【OPTOAUTO】\Collimator Automation20160825\Collimator Automation\obj\x86\Debug\Collimator Automation.vbprojResolveAssemblyReference.cache
+E:\【OPTOAUTO】\Collimator Automation20160825\Collimator Automation\obj\x86\Debug\Collimator_Automation.AirSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation20160825\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisContorl.resources
+E:\【OPTOAUTO】\Collimator Automation20160825\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisMove.resources
+E:\【OPTOAUTO】\Collimator Automation20160825\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation20160825\Collimator Automation\obj\x86\Debug\Collimator_Automation.Flow.resources
+E:\【OPTOAUTO】\Collimator Automation20160825\Collimator Automation\obj\x86\Debug\Collimator_Automation.FrmChooseCamera.resources
+E:\【OPTOAUTO】\Collimator Automation20160825\Collimator Automation\obj\x86\Debug\Collimator_Automation.MainFrm.resources
+E:\【OPTOAUTO】\Collimator Automation20160825\Collimator Automation\obj\x86\Debug\Collimator_Automation.Resources.resources
+E:\【OPTOAUTO】\Collimator Automation20160825\Collimator Automation\obj\x86\Debug\Collimator_Automation.Test.resources
+E:\【OPTOAUTO】\Collimator Automation20160825\Collimator Automation\obj\x86\Debug\Collimator_Automation.函数说明.resources
+E:\【OPTOAUTO】\Collimator Automation20160825\Collimator Automation\obj\x86\Debug\Collimator_Automation.回原点编辑.resources
+E:\【OPTOAUTO】\Collimator Automation20160825\Collimator Automation\obj\x86\Debug\Collimator_Automation.流程编辑.resources
+E:\【OPTOAUTO】\Collimator Automation20160825\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.GenerateResource.Cache
+E:\【OPTOAUTO】\Collimator Automation20160826\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+E:\【OPTOAUTO】\Collimator Automation20160826\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\Collimator Automation20160826\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation20160826\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation20160826\Collimator Automation\bin\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation20160826\Collimator Automation\bin\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation20160826\Collimator Automation\bin\Debug\DirectShowLib-2005.dll
+E:\【OPTOAUTO】\Collimator Automation20160826\Collimator Automation\bin\Debug\WebCam_Capture.dll
+E:\【OPTOAUTO】\Collimator Automation20160826\Collimator Automation\obj\x86\Debug\Collimator Automation.vbprojResolveAssemblyReference.cache
+E:\【OPTOAUTO】\Collimator Automation20160826\Collimator Automation\obj\x86\Debug\Collimator_Automation.AirSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation20160826\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisContorl.resources
+E:\【OPTOAUTO】\Collimator Automation20160826\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisMove.resources
+E:\【OPTOAUTO】\Collimator Automation20160826\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation20160826\Collimator Automation\obj\x86\Debug\Collimator_Automation.Flow.resources
+E:\【OPTOAUTO】\Collimator Automation20160826\Collimator Automation\obj\x86\Debug\Collimator_Automation.FrmChooseCamera.resources
+E:\【OPTOAUTO】\Collimator Automation20160826\Collimator Automation\obj\x86\Debug\Collimator_Automation.MainFrm.resources
+E:\【OPTOAUTO】\Collimator Automation20160826\Collimator Automation\obj\x86\Debug\Collimator_Automation.Resources.resources
+E:\【OPTOAUTO】\Collimator Automation20160826\Collimator Automation\obj\x86\Debug\Collimator_Automation.Test.resources
+E:\【OPTOAUTO】\Collimator Automation20160826\Collimator Automation\obj\x86\Debug\Collimator_Automation.函数说明.resources
+E:\【OPTOAUTO】\Collimator Automation20160826\Collimator Automation\obj\x86\Debug\Collimator_Automation.回原点编辑.resources
+E:\【OPTOAUTO】\Collimator Automation20160826\Collimator Automation\obj\x86\Debug\Collimator_Automation.流程编辑.resources
+E:\【OPTOAUTO】\Collimator Automation20160826\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.GenerateResource.Cache
+E:\【OPTOAUTO】\Collimator Automation20160827\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+E:\【OPTOAUTO】\Collimator Automation20160827\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\Collimator Automation20160827\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation20160827\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation20160827\Collimator Automation\bin\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation20160827\Collimator Automation\bin\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation20160827\Collimator Automation\bin\Debug\DirectShowLib-2005.dll
+E:\【OPTOAUTO】\Collimator Automation20160827\Collimator Automation\bin\Debug\WebCam_Capture.dll
+E:\【OPTOAUTO】\Collimator Automation20160827\Collimator Automation\obj\x86\Debug\Collimator Automation.vbprojResolveAssemblyReference.cache
+E:\【OPTOAUTO】\Collimator Automation20160827\Collimator Automation\obj\x86\Debug\Collimator_Automation.AirSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation20160827\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisContorl.resources
+E:\【OPTOAUTO】\Collimator Automation20160827\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisMove.resources
+E:\【OPTOAUTO】\Collimator Automation20160827\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation20160827\Collimator Automation\obj\x86\Debug\Collimator_Automation.Flow.resources
+E:\【OPTOAUTO】\Collimator Automation20160827\Collimator Automation\obj\x86\Debug\Collimator_Automation.FrmChooseCamera.resources
+E:\【OPTOAUTO】\Collimator Automation20160827\Collimator Automation\obj\x86\Debug\Collimator_Automation.MainFrm.resources
+E:\【OPTOAUTO】\Collimator Automation20160827\Collimator Automation\obj\x86\Debug\Collimator_Automation.Resources.resources
+E:\【OPTOAUTO】\Collimator Automation20160827\Collimator Automation\obj\x86\Debug\Collimator_Automation.Test.resources
+E:\【OPTOAUTO】\Collimator Automation20160827\Collimator Automation\obj\x86\Debug\Collimator_Automation.函数说明.resources
+E:\【OPTOAUTO】\Collimator Automation20160827\Collimator Automation\obj\x86\Debug\Collimator_Automation.回原点编辑.resources
+E:\【OPTOAUTO】\Collimator Automation20160827\Collimator Automation\obj\x86\Debug\Collimator_Automation.流程编辑.resources
+E:\【OPTOAUTO】\Collimator Automation20160827\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.GenerateResource.Cache
+E:\【OPTOAUTO】\Collimator Automation20160828\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+E:\【OPTOAUTO】\Collimator Automation20160828\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\Collimator Automation20160828\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation20160828\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation20160828\Collimator Automation\bin\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation20160828\Collimator Automation\bin\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation20160828\Collimator Automation\bin\Debug\DirectShowLib-2005.dll
+E:\【OPTOAUTO】\Collimator Automation20160828\Collimator Automation\obj\x86\Debug\Collimator Automation.vbprojResolveAssemblyReference.cache
+E:\【OPTOAUTO】\Collimator Automation20160828\Collimator Automation\obj\x86\Debug\Collimator_Automation.AirSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation20160828\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisContorl.resources
+E:\【OPTOAUTO】\Collimator Automation20160828\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisMove.resources
+E:\【OPTOAUTO】\Collimator Automation20160828\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation20160828\Collimator Automation\obj\x86\Debug\Collimator_Automation.Flow.resources
+E:\【OPTOAUTO】\Collimator Automation20160828\Collimator Automation\obj\x86\Debug\Collimator_Automation.FrmChooseCamera.resources
+E:\【OPTOAUTO】\Collimator Automation20160828\Collimator Automation\obj\x86\Debug\Collimator_Automation.MainFrm.resources
+E:\【OPTOAUTO】\Collimator Automation20160828\Collimator Automation\obj\x86\Debug\Collimator_Automation.Resources.resources
+E:\【OPTOAUTO】\Collimator Automation20160828\Collimator Automation\obj\x86\Debug\Collimator_Automation.Test.resources
+E:\【OPTOAUTO】\Collimator Automation20160828\Collimator Automation\obj\x86\Debug\Collimator_Automation.函数说明.resources
+E:\【OPTOAUTO】\Collimator Automation20160828\Collimator Automation\obj\x86\Debug\Collimator_Automation.回原点编辑.resources
+E:\【OPTOAUTO】\Collimator Automation20160828\Collimator Automation\obj\x86\Debug\Collimator_Automation.流程编辑.resources
+E:\【OPTOAUTO】\Collimator Automation20160828\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.GenerateResource.Cache
+E:\【OPTOAUTO】\Collimator Automation20160828\Collimator Automation\bin\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\obj\x86\Debug\Collimator_Automation.AirSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisContorl.resources
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisMove.resources
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\obj\x86\Debug\Collimator_Automation.Camra.resources
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\obj\x86\Debug\Collimator_Automation.Flow.resources
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\obj\x86\Debug\Collimator_Automation.FrmChooseCamera.resources
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\obj\x86\Debug\Collimator_Automation.MainFrm.resources
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\obj\x86\Debug\Collimator_Automation.Resources.resources
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\obj\x86\Debug\Collimator_Automation.Test.resources
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\obj\x86\Debug\Collimator_Automation.函数说明.resources
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\obj\x86\Debug\Collimator_Automation.回原点编辑.resources
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\obj\x86\Debug\Collimator_Automation.流程编辑.resources
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.GenerateResource.Cache
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\Collimator Automation.exe.config
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\Collimator Automation.exe
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\BrainDll.dll
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\DirectShowLib-2005.dll
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\Emgu.CV.dll
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\Emgu.CV.UI.dll
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\Emgu.Util.dll
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\ZedGraph.dll
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\BrainDll.pdb
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\BrainDll.xml
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\Emgu.CV.xml
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\Emgu.CV.UI.xml
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\Emgu.Util.xml
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\bin\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\bin\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\bin\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\bin\Debug\BrainDll.dll
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\bin\Debug\DirectShowLib-2005.dll
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\bin\Debug\Emgu.CV.dll
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\bin\Debug\Emgu.CV.UI.dll
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\bin\Debug\Emgu.Util.dll
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\bin\Debug\BrainDll.pdb
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\bin\Debug\BrainDll.xml
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\bin\Debug\Emgu.CV.xml
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\bin\Debug\Emgu.CV.UI.xml
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\bin\Debug\Emgu.Util.xml
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\obj\x86\Debug\Collimator Automation.vbprojResolveAssemblyReference.cache
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\obj\x86\Debug\Collimator Automation.vbprojResolveAssemblyReference.cache
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\obj\x86\Debug\Collimator_Automation.AirSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisContorl.resources
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisMove.resources
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\obj\x86\Debug\Collimator_Automation.Camra.resources
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\obj\x86\Debug\Collimator_Automation.Flow.resources
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\obj\x86\Debug\Collimator_Automation.FrmChooseCamera.resources
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\obj\x86\Debug\Collimator_Automation.MainFrm.resources
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\obj\x86\Debug\Collimator_Automation.Resources.resources
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\obj\x86\Debug\Collimator_Automation.Test.resources
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\obj\x86\Debug\Collimator_Automation.函数说明.resources
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\obj\x86\Debug\Collimator_Automation.回原点编辑.resources
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\obj\x86\Debug\Collimator_Automation.流程编辑.resources
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.GenerateResource.Cache
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\bin\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\bin\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\bin\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\bin\Debug\BrainDll.dll
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\bin\Debug\DirectShowLib-2005.dll
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\bin\Debug\Emgu.CV.dll
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\bin\Debug\Emgu.CV.UI.dll
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\bin\Debug\Emgu.Util.dll
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\bin\Debug\BrainDll.pdb
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\bin\Debug\BrainDll.xml
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\bin\Debug\Emgu.CV.xml
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\bin\Debug\Emgu.CV.UI.xml
+E:\【OPTOAUTO】\Collimator Automation201609012\Collimator Automation\bin\Debug\Emgu.Util.xml
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\BrainDll.dll
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\DirectShowLib-2005.dll
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\Emgu.CV.dll
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\Emgu.CV.UI.dll
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\Emgu.Util.dll
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\BrainDll.pdb
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\BrainDll.xml
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\Emgu.CV.xml
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\Emgu.CV.UI.xml
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\Emgu.Util.xml
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\Interop.VIDEOCAPXLib.dll
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\Interop.工程1.dll
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\AxInterop.VIDEOCAPXLib.dll
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\AxInterop.工程1.dll
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\Interop.VIDEOCAPXLib.dll
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\Interop.工程1.dll
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\AxInterop.VIDEOCAPXLib.dll
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\AxInterop.工程1.dll
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.ResolveComReference.cache
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.GenerateResource.Cache
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\Collimator_Automation.AirSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisContorl.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisMove.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\Collimator_Automation.Camra.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\Collimator_Automation.Flow.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\Collimator_Automation.Form1.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\Collimator_Automation.FrmChooseCamera.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\Collimator_Automation.MainFrm.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOControl1.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOSetting1.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\Collimator_Automation.Resources.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\Collimator_Automation.Test.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\Collimator_Automation.VX.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\Collimator_Automation.函数说明.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\Collimator_Automation.回原点编辑.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\Collimator_Automation.流程编辑.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\x86\Debug\Collimator Automation.vbprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\obj\x86\Debug\Interop.VIDEOCAPXLib.dll
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\obj\x86\Debug\AxInterop.VIDEOCAPXLib.dll
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.ResolveComReference.cache
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\bin\Debug\Collimator Automation.exe
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\bin\Debug\Collimator Automation.pdb
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\bin\Debug\Collimator Automation.xml
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\bin\Debug\Interop.VIDEOCAPXLib.dll
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\bin\Debug\AxInterop.VIDEOCAPXLib.dll
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\obj\x86\Debug\Collimator_Automation.AirSettingView.resources
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisContorl.resources
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisMove.resources
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisSettingView.resources
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\obj\x86\Debug\Collimator_Automation.Camra.resources
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\obj\x86\Debug\Collimator_Automation.Flow.resources
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\obj\x86\Debug\Collimator_Automation.Form1.resources
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\obj\x86\Debug\Collimator_Automation.FrmChooseCamera.resources
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\obj\x86\Debug\Collimator_Automation.MainFrm.resources
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOControl1.resources
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOSetting1.resources
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\obj\x86\Debug\Collimator_Automation.Resources.resources
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\obj\x86\Debug\Collimator_Automation.Test.resources
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\obj\x86\Debug\Collimator_Automation.VX.resources
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\obj\x86\Debug\Collimator_Automation.函数说明.resources
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\obj\x86\Debug\Collimator_Automation.回原点编辑.resources
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\obj\x86\Debug\Collimator_Automation.流程编辑.resources
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Collimator Automation201609019\Collimator Automation\obj\x86\Debug\Collimator Automation.vbprojResolveAssemblyReference.cache
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Interop.VIDEOCAPXLib.dll
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\AxInterop.VIDEOCAPXLib.dll
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.ResolveComReference.cache
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\bin\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\bin\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\bin\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\bin\Debug\BrainDll.dll
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\bin\Debug\DirectShowLib-2005.dll
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\bin\Debug\Emgu.CV.dll
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\bin\Debug\Emgu.CV.UI.dll
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\bin\Debug\Emgu.Util.dll
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\bin\Debug\BrainDll.pdb
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\bin\Debug\BrainDll.xml
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\bin\Debug\Emgu.CV.xml
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\bin\Debug\Emgu.CV.UI.xml
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\bin\Debug\Emgu.Util.xml
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\bin\Debug\Interop.VIDEOCAPXLib.dll
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\bin\Debug\AxInterop.VIDEOCAPXLib.dll
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator Automation.vbprojResolveAssemblyReference.cache
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.AirSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisContorl.resources
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisMove.resources
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.Camra.resources
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.Flow.resources
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.Form1.resources
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.FrmChooseCamera.resources
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.MainFrm.resources
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOControl1.resources
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOSetting1.resources
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.Resources.resources
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.Test.resources
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.VX.resources
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.函数说明.resources
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.回原点编辑.resources
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.流程编辑.resources
+E:\【OPTOAUTO】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.GenerateResource.Cache
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Interop.VIDEOCAPXLib.dll
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\AxInterop.VIDEOCAPXLib.dll
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.ResolveComReference.cache
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\bin\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\bin\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\bin\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\bin\Debug\Emgu.CV.dll
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\bin\Debug\Emgu.CV.UI.dll
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\bin\Debug\Emgu.Util.dll
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\bin\Debug\BrainDll.xml
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\bin\Debug\Emgu.CV.xml
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\bin\Debug\Emgu.CV.UI.xml
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\bin\Debug\Emgu.Util.xml
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\bin\Debug\Interop.VIDEOCAPXLib.dll
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\bin\Debug\AxInterop.VIDEOCAPXLib.dll
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator Automation.vbprojResolveAssemblyReference.cache
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.AirSettingView.resources
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisContorl.resources
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisMove.resources
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisSettingView.resources
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.Camra.resources
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.Flow.resources
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.Form1.resources
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.FrmChooseCamera.resources
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.MainFrm.resources
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOControl1.resources
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOSetting1.resources
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.Resources.resources
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.Test.resources
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.VX.resources
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.函数说明.resources
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.回原点编辑.resources
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.流程编辑.resources
+E:\【OPTOAUTO】\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.GenerateResource.Cache
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Interop.VIDEOCAPXLib.dll
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\AxInterop.VIDEOCAPXLib.dll
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.ResolveComReference.cache
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.AirSettingView.resources
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisContorl.resources
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisMove.resources
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisSettingView.resources
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.Camra.resources
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.Flow.resources
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.Form1.resources
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.FrmChooseCamera.resources
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.MainFrm.resources
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOControl1.resources
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOSetting1.resources
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.Resources.resources
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.Test.resources
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.VX.resources
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.函数说明.resources
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.回原点编辑.resources
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator_Automation.流程编辑.resources
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.GenerateResource.Cache
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\bin\Debug\Collimator Automation.exe
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\bin\Debug\Emgu.CV.dll
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\bin\Debug\Emgu.CV.UI.dll
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\bin\Debug\Emgu.Util.dll
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\bin\Debug\Emgu.CV.xml
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\bin\Debug\Emgu.CV.UI.xml
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\bin\Debug\Emgu.Util.xml
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\bin\Debug\Collimator Automation.pdb
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\bin\Debug\Collimator Automation.xml
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\bin\Debug\Interop.VIDEOCAPXLib.dll
+E:\【准直器】\Collimator Automation20160920\Collimator Automation\bin\Debug\AxInterop.VIDEOCAPXLib.dll
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\obj\x86\Debug\Interop.VIDEOCAPXLib.dll
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\obj\x86\Debug\AxInterop.VIDEOCAPXLib.dll
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.ResolveComReference.cache
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\bin\Debug\Collimator Automation.exe
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\bin\Debug\Collimator Automation.pdb
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\bin\Debug\Collimator Automation.xml
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\bin\Debug\Emgu.CV.dll
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\bin\Debug\Emgu.CV.UI.dll
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\bin\Debug\Emgu.Util.dll
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\bin\Debug\Emgu.CV.xml
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\bin\Debug\Emgu.CV.UI.xml
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\bin\Debug\Emgu.Util.xml
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\bin\Debug\Interop.VIDEOCAPXLib.dll
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\bin\Debug\AxInterop.VIDEOCAPXLib.dll
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\obj\x86\Debug\Collimator_Automation.AirSettingView.resources
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisContorl.resources
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisMove.resources
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisSettingView.resources
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\obj\x86\Debug\Collimator_Automation.Camra.resources
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\obj\x86\Debug\Collimator_Automation.Flow.resources
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\obj\x86\Debug\Collimator_Automation.Form1.resources
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\obj\x86\Debug\Collimator_Automation.FrmChooseCamera.resources
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\obj\x86\Debug\Collimator_Automation.MainFrm.resources
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOControl1.resources
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOSetting1.resources
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\obj\x86\Debug\Collimator_Automation.Resources.resources
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\obj\x86\Debug\Collimator_Automation.Test.resources
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\obj\x86\Debug\Collimator_Automation.VX.resources
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\obj\x86\Debug\Collimator_Automation.函数说明.resources
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\obj\x86\Debug\Collimator_Automation.回原点编辑.resources
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\obj\x86\Debug\Collimator_Automation.流程编辑.resources
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.GenerateResource.Cache
+E:\【准直器】\Collimator Automation20161020\Collimator Automation\obj\x86\Debug\Collimator Automation.vbprojResolveAssemblyReference.cache
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Interop.VIDEOCAPXLib.dll
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\AxInterop.VIDEOCAPXLib.dll
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.ResolveComReference.cache
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\bin\Debug\Collimator Automation.exe
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\bin\Debug\Collimator Automation.pdb
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\bin\Debug\Collimator Automation.xml
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\bin\Debug\Emgu.CV.dll
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\bin\Debug\Emgu.CV.UI.dll
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\bin\Debug\Emgu.Util.dll
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\bin\Debug\Emgu.CV.xml
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\bin\Debug\Emgu.CV.UI.xml
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\bin\Debug\Emgu.Util.xml
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\bin\Debug\Interop.VIDEOCAPXLib.dll
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\bin\Debug\AxInterop.VIDEOCAPXLib.dll
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.AirSettingView.resources
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisContorl.resources
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisMove.resources
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisSettingView.resources
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.Camra.resources
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.Flow.resources
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.Form1.resources
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.FrmChooseCamera.resources
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.MainFrm.resources
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOControl1.resources
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOSetting1.resources
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.Resources.resources
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.Test.resources
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.VX.resources
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.函数说明.resources
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.回原点编辑.resources
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.流程编辑.resources
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.GenerateResource.Cache
+E:\【准直器】\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.归零.resources
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Interop.VIDEOCAPXLib.dll
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\AxInterop.VIDEOCAPXLib.dll
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.ResolveComReference.cache
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\bin\Debug\Collimator Automation.exe
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\bin\Debug\Collimator Automation.pdb
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\bin\Debug\Collimator Automation.xml
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\bin\Debug\Emgu.CV.dll
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\bin\Debug\Emgu.CV.UI.dll
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\bin\Debug\Emgu.Util.dll
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\bin\Debug\Emgu.CV.xml
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\bin\Debug\Emgu.CV.UI.xml
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\bin\Debug\Emgu.Util.xml
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\bin\Debug\Interop.VIDEOCAPXLib.dll
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\bin\Debug\AxInterop.VIDEOCAPXLib.dll
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.AirSettingView.resources
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisContorl.resources
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisMove.resources
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisSettingView.resources
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.Camra.resources
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.Flow.resources
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.Form1.resources
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.FrmChooseCamera.resources
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.MainFrm.resources
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOControl1.resources
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOSetting1.resources
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.Resources.resources
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.Test.resources
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.VX.resources
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.函数说明.resources
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.回原点编辑.resources
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.归零.resources
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.流程编辑.resources
+E:\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.GenerateResource.Cache
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Interop.VIDEOCAPXLib.dll
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\AxInterop.VIDEOCAPXLib.dll
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.ResolveComReference.cache
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\bin\Debug\Collimator Automation.exe
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\bin\Debug\Collimator Automation.pdb
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\bin\Debug\Collimator Automation.xml
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\bin\Debug\Emgu.CV.dll
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\bin\Debug\Emgu.CV.UI.dll
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\bin\Debug\Emgu.Util.dll
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\bin\Debug\Emgu.CV.xml
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\bin\Debug\Emgu.CV.UI.xml
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\bin\Debug\Emgu.Util.xml
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\bin\Debug\Interop.VIDEOCAPXLib.dll
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\bin\Debug\AxInterop.VIDEOCAPXLib.dll
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.AirSettingView.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisContorl.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisMove.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisSettingView.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.Camra.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.Flow.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.Form1.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.Form2.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.FrmChooseCamera.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.MainFrm.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOControl1.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOSetting1.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.Resources.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.Test.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.VX.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.函数说明.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.回原点编辑.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.归零.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator_Automation.流程编辑.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161021\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.GenerateResource.Cache
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Interop.VIDEOCAPXLib.dll
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\AxInterop.VIDEOCAPXLib.dll
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.ResolveComReference.cache
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Collimator Automation.exe
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Collimator Automation.pdb
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Collimator Automation.xml
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Emgu.CV.dll
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Emgu.CV.UI.dll
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Emgu.Util.dll
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Emgu.CV.xml
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Emgu.CV.UI.xml
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Emgu.Util.xml
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Interop.VIDEOCAPXLib.dll
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\AxInterop.VIDEOCAPXLib.dll
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.AirSettingView.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisContorl.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisMove.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisSettingView.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Camra.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Flow.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Form1.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Form2.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.FrmChooseCamera.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.MainFrm.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOControl1.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOSetting1.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Resources.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Test.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.VX.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.函数说明.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.回原点编辑.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.归零.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.流程编辑.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.GenerateResource.Cache
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.ContorlSetting.resources
+G:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.控制器配置.resources
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Interop.VIDEOCAPXLib.dll
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\AxInterop.VIDEOCAPXLib.dll
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.ResolveComReference.cache
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Collimator Automation.exe
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Collimator Automation.pdb
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Collimator Automation.xml
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Emgu.CV.dll
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Emgu.CV.UI.dll
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Emgu.Util.dll
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Emgu.CV.xml
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Emgu.CV.UI.xml
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Emgu.Util.xml
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Interop.VIDEOCAPXLib.dll
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\AxInterop.VIDEOCAPXLib.dll
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.AirSettingView.resources
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisContorl.resources
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisMove.resources
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisSettingView.resources
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Camra.resources
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.ContorlSetting.resources
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Flow.resources
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Form1.resources
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Form2.resources
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.FrmChooseCamera.resources
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.MainFrm.resources
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOControl1.resources
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOSetting1.resources
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Resources.resources
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Test.resources
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.VX.resources
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.函数说明.resources
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.回原点编辑.resources
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.归零.resources
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.控制器配置.resources
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.流程编辑.resources
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.GenerateResource.Cache
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\BrainDll.dll
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\BrainDll.pdb
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\BrainDll.xml
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.vbprojResolveAssemblyReference.cache
+G:\【高义修改中】\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.光谱坐标.resources
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Interop.VIDEOCAPXLib.dll
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\AxInterop.VIDEOCAPXLib.dll
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.ResolveComReference.cache
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Collimator Automation.exe
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Collimator Automation.pdb
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Collimator Automation.xml
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Emgu.CV.dll
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Emgu.CV.UI.dll
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Emgu.Util.dll
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Emgu.CV.xml
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Emgu.CV.UI.xml
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Emgu.Util.xml
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\Interop.VIDEOCAPXLib.dll
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\bin\Debug\AxInterop.VIDEOCAPXLib.dll
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.AirSettingView.resources
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisContorl.resources
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisMove.resources
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisSettingView.resources
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Camra.resources
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.ContorlSetting.resources
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Flow.resources
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Form1.resources
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Form2.resources
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.FrmChooseCamera.resources
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.MainFrm.resources
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOControl1.resources
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOSetting1.resources
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Resources.resources
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Test.resources
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.VX.resources
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.光谱坐标.resources
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.函数说明.resources
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.回原点编辑.resources
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.归零.resources
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.控制器配置.resources
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.流程编辑.resources
+E:\【准直器】\NewDllTest\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.GenerateResource.Cache
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Interop.VIDEOCAPXLib.dll
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.ResolveComReference.cache
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.AirSettingView.resources
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisContorl.resources
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisMove.resources
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisSettingView.resources
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Camra.resources
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.ContorlSetting.resources
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Flow.resources
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Form2.resources
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.FrmChooseCamera.resources
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.MainFrm.resources
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOControl1.resources
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOSetting1.resources
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Resources.resources
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Test.resources
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.光谱坐标.resources
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.函数说明.resources
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.回原点编辑.resources
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.归零.resources
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.控制器配置.resources
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.流程编辑.resources
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.GenerateResource.Cache
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\bin\Debug\Collimator Automation.exe
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\bin\Debug\Collimator Automation.pdb
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\bin\Debug\Collimator Automation.xml
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.自动校准轴.resources
+F:\20161223\【OPTOAUTO】\【准直器】\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.vbprojResolveAssemblyReference.cache
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Interop.VIDEOCAPXLib.dll
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.ResolveComReference.cache
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\bin\Debug\Collimator Automation.exe
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\bin\Debug\Collimator Automation.pdb
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\bin\Debug\Collimator Automation.xml
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.AirSettingView.resources
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisContorl.resources
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisMove.resources
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.AxisSettingView.resources
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Camra.resources
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.ContorlSetting.resources
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Flow.resources
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Form2.resources
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.FrmChooseCamera.resources
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.MainFrm.resources
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.自动校准轴.resources
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOControl1.resources
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.IOSetting1.resources
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Resources.resources
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.Test.resources
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.光谱坐标.resources
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.函数说明.resources
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.回原点编辑.resources
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.归零.resources
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.控制器配置.resources
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.暂存器.resources
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator_Automation.流程编辑.resources
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.GenerateResource.Cache
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb
+C:\Users\Brain\Desktop\Collimator Automation20161107\Collimator Automation\obj\x86\Debug\Collimator Automation.vbprojResolveAssemblyReference.cache
+E:\【OPTOAUTO】\PumpLaser\Collimator Automation20170102\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+E:\【OPTOAUTO】\PumpLaser\Collimator Automation20170102\Collimator Automation\obj\x86\Debug\Interop.VIDEOCAPXLib.dll
+E:\【OPTOAUTO】\PumpLaser\Collimator Automation20170102\Collimator Automation\obj\x86\Debug\Collimator Automation.vbproj.ResolveComReference.cache
+E:\【OPTOAUTO】\PumpLaser\Collimator Automation20170102\Collimator Automation\obj\x86\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\PumpLaser\Collimator Automation20170102\Collimator Automation\obj\x86\Debug\Collimator Automation.xml
+E:\【OPTOAUTO】\PumpLaser\Collimator Automation20170102\Collimator Automation\obj\x86\Debug\Collimator Automation.pdb

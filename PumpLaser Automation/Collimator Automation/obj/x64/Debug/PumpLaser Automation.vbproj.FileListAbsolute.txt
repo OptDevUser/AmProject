@@ -1,0 +1,87 @@
+D:\PumpLaser Automation20170306\Collimator Automation\bin\x64\Debug\PumpLaser Automation.exe.config
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser Automation.vbproj.ResolveComReference.cache
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.AirSettingView.resources
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.AxisContorl.resources
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.AxisMove.resources
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.AxisSettingView.resources
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.Camra.resources
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.ContorlSetting.resources
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.DateEdit.resources
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.Flow.resources
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.Form2.resources
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.FrmChooseCamera.resources
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.MainFrm.resources
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.自动校准轴.resources
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.IOControl1.resources
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.IOSetting1.resources
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.Resources.resources
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.SaveDataSetting.resources
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.Test.resources
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.光谱坐标.resources
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.函数说明.resources
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.回原点编辑.resources
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.归零.resources
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.恒慧电源测试.resources
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.控制器配置.resources
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.暂存器.resources
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.流程编辑.resources
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser Automation.vbproj.GenerateResource.Cache
+D:\PumpLaser Automation20170306\Collimator Automation\bin\x64\Debug\PumpLaser Automation.exe
+D:\PumpLaser Automation20170306\Collimator Automation\bin\x64\Debug\PumpLaser Automation.pdb
+D:\PumpLaser Automation20170306\Collimator Automation\bin\x64\Debug\PumpLaser Automation.xml
+D:\PumpLaser Automation20170306\Collimator Automation\bin\x64\Debug\DirectShowLib-2005.dll
+D:\PumpLaser Automation20170306\Collimator Automation\bin\x64\Debug\Emgu.CV.dll
+D:\PumpLaser Automation20170306\Collimator Automation\bin\x64\Debug\Emgu.CV.UI.dll
+D:\PumpLaser Automation20170306\Collimator Automation\bin\x64\Debug\Emgu.Util.dll
+D:\PumpLaser Automation20170306\Collimator Automation\bin\x64\Debug\WebCam_Capture.dll
+D:\PumpLaser Automation20170306\Collimator Automation\bin\x64\Debug\ZedGraph.dll
+D:\PumpLaser Automation20170306\Collimator Automation\bin\x64\Debug\BrainDll.pdb
+D:\PumpLaser Automation20170306\Collimator Automation\bin\x64\Debug\BrainDll.xml
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser Automation.exe
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser Automation.xml
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser Automation.pdb
+D:\PumpLaser Automation20170306\Collimator Automation\obj\x64\Debug\PumpLaser Automation.vbprojResolveAssemblyReference.cache
+D:\PumpLaser Automation20170306\Collimator Automation\bin\x64\Debug\BrainDll.dll
+D:\PumpLaser Automation20170307\Collimator Automation\bin\x64\Debug\PumpLaser Automation.exe.config
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser Automation.vbproj.ResolveComReference.cache
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser Automation.exe
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser Automation.xml
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser Automation.pdb
+D:\PumpLaser Automation20170307\Collimator Automation\bin\x64\Debug\PumpLaser Automation.exe
+D:\PumpLaser Automation20170307\Collimator Automation\bin\x64\Debug\PumpLaser Automation.pdb
+D:\PumpLaser Automation20170307\Collimator Automation\bin\x64\Debug\PumpLaser Automation.xml
+D:\PumpLaser Automation20170307\Collimator Automation\bin\x64\Debug\DirectShowLib-2005.dll
+D:\PumpLaser Automation20170307\Collimator Automation\bin\x64\Debug\Emgu.CV.dll
+D:\PumpLaser Automation20170307\Collimator Automation\bin\x64\Debug\Emgu.CV.UI.dll
+D:\PumpLaser Automation20170307\Collimator Automation\bin\x64\Debug\Emgu.Util.dll
+D:\PumpLaser Automation20170307\Collimator Automation\bin\x64\Debug\WebCam_Capture.dll
+D:\PumpLaser Automation20170307\Collimator Automation\bin\x64\Debug\ZedGraph.dll
+D:\PumpLaser Automation20170307\Collimator Automation\bin\x64\Debug\BrainDll.pdb
+D:\PumpLaser Automation20170307\Collimator Automation\bin\x64\Debug\BrainDll.xml
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser Automation.vbprojResolveAssemblyReference.cache
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.AirSettingView.resources
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.AxisContorl.resources
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.AxisMove.resources
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.AxisSettingView.resources
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.Camra.resources
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.ContorlSetting.resources
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.DateEdit.resources
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.Flow.resources
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.Form2.resources
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.FrmChooseCamera.resources
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.MainFrm.resources
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.自动校准轴.resources
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.IOControl1.resources
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.IOSetting1.resources
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.Resources.resources
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.SaveDataSetting.resources
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.Test.resources
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.光谱坐标.resources
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.函数说明.resources
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.回原点编辑.resources
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.归零.resources
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.恒慧电源测试.resources
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.控制器配置.resources
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.暂存器.resources
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser_Automation.流程编辑.resources
+D:\PumpLaser Automation20170307\Collimator Automation\obj\x64\Debug\PumpLaser Automation.vbproj.GenerateResource.Cache

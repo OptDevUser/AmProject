@@ -1,0 +1,44 @@
+E:\【OPTOAUTO】\Collimator Automation20160908\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\Debug\Interop.VIDEOCAPXLib.dll
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\Debug\Interop.工程1.dll
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\Debug\AxInterop.VIDEOCAPXLib.dll
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\Debug\AxInterop.工程1.dll
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\Debug\Collimator Automation.vbproj.ResolveComReference.cache
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\BrainDll.dll
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\DirectShowLib-2005.dll
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\Emgu.CV.dll
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\Emgu.CV.UI.dll
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\Emgu.Util.dll
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\BrainDll.pdb
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\BrainDll.xml
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\Emgu.CV.xml
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\Emgu.CV.UI.xml
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\Emgu.Util.xml
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\Interop.VIDEOCAPXLib.dll
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\Interop.工程1.dll
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\AxInterop.VIDEOCAPXLib.dll
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\AxInterop.工程1.dll
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\Debug\Collimator Automation.vbproj.GenerateResource.Cache
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\Collimator Automation.exe.config
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\bin\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\Debug\Collimator_Automation.AirSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\Debug\Collimator_Automation.AxisContorl.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\Debug\Collimator_Automation.AxisMove.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\Debug\Collimator_Automation.AxisSettingView.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\Debug\Collimator_Automation.Camra.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\Debug\Collimator_Automation.Flow.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\Debug\Collimator_Automation.Form1.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\Debug\Collimator_Automation.FrmChooseCamera.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\Debug\Collimator_Automation.MainFrm.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\Debug\Collimator_Automation.IOControl1.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\Debug\Collimator_Automation.IOSetting1.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\Debug\Collimator_Automation.Resources.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\Debug\Collimator_Automation.Test.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\Debug\Collimator_Automation.VX.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\Debug\Collimator_Automation.函数说明.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\Debug\Collimator_Automation.回原点编辑.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\Debug\Collimator_Automation.流程编辑.resources
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\Debug\Collimator Automation.exe
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\Debug\Collimator Automation.pdb
+E:\【OPTOAUTO】\Collimator Automation201609017\Collimator Automation\obj\Debug\Collimator Automation.vbprojResolveAssemblyReference.cache

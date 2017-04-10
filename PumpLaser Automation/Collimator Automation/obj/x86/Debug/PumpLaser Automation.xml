@@ -1,0 +1,419 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PumpLaser Automation
+</name>
+</assembly>
+<members>
+<member name="T:PumpLaser_Automation.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:PumpLaser_Automation.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:PumpLaser_Automation.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:PumpLaser_Automation.My.Resources.Resources.arrow_left_blue">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PumpLaser_Automation.My.Resources.Resources.arrow_right_blue">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PumpLaser_Automation.My.Resources.Resources.Grab">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PumpLaser_Automation.My.Resources.Resources.Image1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PumpLaser_Automation.My.Resources.Resources.ooopic_1488014575">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PumpLaser_Automation.My.Resources.Resources.ooopic_14880145751">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PumpLaser_Automation.My.Resources.Resources.ooopic_1488014774">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PumpLaser_Automation.My.Resources.Resources.radioButton1_Image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PumpLaser_Automation.My.Resources.Resources.Stop1NormalRed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PumpLaser_Automation.My.Resources.Resources.下载_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PumpLaser_Automation.My.Resources.Resources.中斷_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PumpLaser_Automation.My.Resources.Resources.原点">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PumpLaser_Automation.My.Resources.Resources.原点1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PumpLaser_Automation.My.Resources.Resources.复位">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PumpLaser_Automation.My.Resources.Resources.开始">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PumpLaser_Automation.My.Resources.Resources.开始1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PumpLaser_Automation.My.Resources.Resources.开始2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PumpLaser_Automation.My.Resources.Resources.暂停">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PumpLaser_Automation.My.Resources.Resources.異常清除_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PumpLaser_Automation.My.Resources.Resources.登入">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PumpLaser_Automation.My.Resources.Resources.登入1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PumpLaser_Automation.My.Resources.Resources.结束">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PumpLaser_Automation.c恒惠.IsOpen">
+ <summary>
+ 判断端口是否打开
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="F:PumpLaser_Automation.cIMCHandle._NetCardInformation">
+ <summary>
+ 网卡的讯息
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:PumpLaser_Automation.cIMCHandle._IMCCardInformation">
+ <summary>
+ IMC卡的讯息
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cIMCHandle.SearchNet">
+ <summary>
+ Search NetCard
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cIMCHandle.OpenDev">
+ <summary>
+ 打开设备
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cIMCHandle.SearchDev(System.Int32)">
+ <summary>
+ 搜索对应网卡的IMC
+ </summary>
+ <param name="NetCardId"></param>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cIMCHandle.InitalCard(System.Int32)">
+ <summary>
+ 初始化对应轴的参数
+ </summary>
+ <param name="Axis"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cIMCHandle.MoveDone(System.Int32)">
+ <summary>
+ 检测马达是否处于停滞状态
+ </summary>
+ <param name="AxisNo"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cIMCHandle.JOG(System.Int32,System.Double,System.Int32,System.Int32)">
+ <summary>
+ Jog
+ </summary>
+ <param name="AxisNo"></param>
+ <param name="VelSpeed"></param>
+ <param name="Pos"></param>
+ <param name="JogMode"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cIMCHandle.StopJog(System.Int32,System.Int32)">
+ <summary>
+ 
+ </summary>
+ <param name="AxisNo"></param>
+ <param name="JogMode"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cIMCHandle.MoveVel(System.Int32,System.Double,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ 对应轴相对位移
+ </summary>
+ <param name="AxisNo"></param>
+ <param name="pos"></param>
+ <param name="IntialVel"></param>
+ <param name="MaxVel"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cIMCHandle.MoveAbs(System.Int32,System.Double,System.Int32)">
+ <summary>
+ 对应轴绝对位移
+ </summary>
+ <param name="AxisNo"></param>
+ <param name="pos"></param>
+ <param name="Timeout"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cIMCHandle.HomeAll(System.Int32,System.Int16)">
+ <summary>
+ 
+ </summary>
+ <param name="Timeout"></param>
+ <param name="ID"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cIMCHandle.GetCurrentPos(System.Int32)">
+ <summary>
+ 获取对应轴的位置
+ </summary>
+ <param name="AxisNo"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cIMCHandle.GetPos(System.Int32)">
+ <summary>
+ 获取对应轴的位置
+ </summary>
+ <param name="AxisNo"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cIMCHandle.ORG(System.Int32)">
+ <summary>
+ 读取原点状态
+ </summary>
+ <param name="AxisNo"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cIMCHandle.PLM(System.Int32)">
+ <summary>
+ 读取正极限状态
+ </summary>
+ <param name="AxisNo"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cIMCHandle.NLM(System.Int32)">
+ <summary>
+ 读取负极限状态
+ </summary>
+ <param name="AxisNo"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:PumpLaser_Automation.cIMCHandle.WriteOut(System.Int32,System.Int16)">
+ <summary>
+ 设置输出端口及读取端口
+ </summary>
+ <param name="Index">端口号</param>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="F:PumpLaser_Automation.cXYZU._NetCardInformation">
+ <summary>
+ 网卡的讯息
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:PumpLaser_Automation.cXYZU._IMCCardInformation">
+ <summary>
+ IMC卡的讯息
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cXYZU.SearchNet">
+ <summary>
+ Search NetCard
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cXYZU.OpenDev">
+ <summary>
+ 打开设备
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cXYZU.SearchDev(System.Int32)">
+ <summary>
+ 搜索对应网卡的IMC
+ </summary>
+ <param name="NetCardId"></param>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cXYZU.InitalCard(System.Int32)">
+ <summary>
+ 初始化对应轴的参数
+ </summary>
+ <param name="Axis"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cXYZU.MoveDone(System.Int32)">
+ <summary>
+ 检测马达是否处于停滞状态
+ </summary>
+ <param name="AxisNo"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cXYZU.JOG(System.Int32,System.Double,System.Int32,System.Int32)">
+ <summary>
+ Jog
+ </summary>
+ <param name="AxisNo"></param>
+ <param name="VelSpeed"></param>
+ <param name="Pos"></param>
+ <param name="JogMode"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cXYZU.StopJog(System.Int32,System.Int32)">
+ <summary>
+ 
+ </summary>
+ <param name="AxisNo"></param>
+ <param name="JogMode"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cXYZU.MoveAbs(System.Int32,System.Double,System.Int32)">
+ <summary>
+ 对应轴绝对位移
+ </summary>
+ <param name="AxisNo"></param>
+ <param name="pos"></param>
+ <param name="Timeout"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cXYZU.HomeAll(System.Int32,System.Int16)">
+ <summary>
+ 
+ </summary>
+ <param name="Timeout"></param>
+ <param name="ID"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cXYZU.GetCurrentPos(System.Int32)">
+ <summary>
+ 获取对应轴的位置
+ </summary>
+ <param name="AxisNo"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cXYZU.ORG(System.Int32)">
+ <summary>
+ 读取原点状态
+ </summary>
+ <param name="AxisNo"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cXYZU.PLM(System.Int32)">
+ <summary>
+ 读取正极限状态
+ </summary>
+ <param name="AxisNo"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:PumpLaser_Automation.cXYZU.NLM(System.Int32)">
+ <summary>
+ 读取负极限状态
+ </summary>
+ <param name="AxisNo"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:PumpLaser_Automation.cXYZU.WriteOut(System.Int32,System.Int16)">
+ <summary>
+ 设置输出端口及读取端口
+ </summary>
+ <param name="Index">端口号</param>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

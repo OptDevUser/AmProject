@@ -1,0 +1,613 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CA856EEB-0A02-4506-8E18-D472FEDDCC26}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>PumpLaser_Automation.My.MyApplication</StartupObject>
+    <RootNamespace>PumpLaser_Automation</RootNamespace>
+    <AssemblyName>PumpLaser Automation</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>PumpLaser Automation.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+    <WarningLevel>0</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>PumpLaser Automation.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+    <WarningLevel>0</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\Debug\</OutputPath>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+    <WarningLevel>0</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <OutputPath>bin\Release\</OutputPath>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+    <WarningLevel>0</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DocumentationFile>PumpLaser Automation.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <WarningLevel>0</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DocumentationFile>PumpLaser Automation.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <WarningLevel>0</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>PumpLaser.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BrainDll">
+      <HintPath>G:\【Comm DLL】\BrainDll\BrainDll\bin\x64\Debug\BrainDll.dll</HintPath>
+    </Reference>
+    <Reference Include="CyUSB">
+      <HintPath>C:\Users\User\Desktop\AptWork\PowerMeter\lib\CyUSB.dll</HintPath>
+    </Reference>
+    <Reference Include="DirectShowLib-2005, Version=2.0.0.0, Culture=neutral, PublicKeyToken=67e7b740cdfc2d3f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DirectShowLib-2005.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV, Version=3.0.0.2157, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\Emgu.CV.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.UI, Version=3.0.0.2157, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\Emgu.CV.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.Util, Version=3.0.0.2157, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\Emgu.Util.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.Compatibility" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="WebCam_Capture, Version=1.0.2395.24959, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\WebCam_Capture.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph, Version=5.1.5.28844, Culture=neutral, PublicKeyToken=02a83cbd123fcd60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AirSettingView.Designer.vb">
+      <DependentUpon>AirSettingView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AirSettingView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlimParameter.vb" />
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="AxisContorl.Designer.vb">
+      <DependentUpon>AxisContorl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AxisContorl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AxisMove.Designer.vb">
+      <DependentUpon>AxisMove.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AxisMove.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AxisSettingView.Designer.vb">
+      <DependentUpon>AxisSettingView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AxisSettingView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Camra.Designer.vb">
+      <DependentUpon>Camra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Camra.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="cCapture.vb" />
+    <Compile Include="cHome.vb" />
+    <Compile Include="cIniTool.vb" />
+    <Compile Include="ClsCyUsb.vb" />
+    <Compile Include="c恒惠.vb" />
+    <Compile Include="ClsESP300.vb" />
+    <Compile Include="ContorlSetting.Designer.vb">
+      <DependentUpon>ContorlSetting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ContorlSetting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CpositionInformation.vb" />
+    <Compile Include="DateEdit.Designer.vb">
+      <DependentUpon>DateEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DateEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FlowFunctionlist.vb" />
+    <Compile Include="Flow.Designer.vb">
+      <DependentUpon>Flow.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Flow.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDemo.Designer.vb">
+      <DependentUpon>FormDemo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDemo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmChooseCamera.Designer.vb">
+      <DependentUpon>FrmChooseCamera.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmChooseCamera.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.vb">
+      <DependentUpon>FrmMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IMC\cAxisParameter.vb" />
+    <Compile Include="IMC\cIMCHandle.vb" />
+    <Compile Include="IMC\DMC208.vb" />
+    <Compile Include="IMC\InterfaceHandle.vb" />
+    <Compile Include="IMC\Tool.vb" />
+    <Compile Include="IMC\自动校准轴.Designer.vb">
+      <DependentUpon>自动校准轴.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IMC\自动校准轴.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IOControl1.Designer.vb">
+      <DependentUpon>IOControl1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IOControl1.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IOSetting.vb" />
+    <Compile Include="IOSetting1.Designer.vb">
+      <DependentUpon>IOSetting1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IOSetting1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mGlobal.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SaveDataSetting.Designer.vb">
+      <DependentUpon>SaveDataSetting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SaveDataSetting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemParmater.vb" />
+    <Compile Include="Test.Designer.vb">
+      <DependentUpon>Test.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Test.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="光谱坐标.Designer.vb">
+      <DependentUpon>光谱坐标.vb</DependentUpon>
+    </Compile>
+    <Compile Include="光谱坐标.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="函数说明.Designer.vb">
+      <DependentUpon>函数说明.vb</DependentUpon>
+    </Compile>
+    <Compile Include="函数说明.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="回原点编辑.Designer.vb">
+      <DependentUpon>回原点编辑.vb</DependentUpon>
+    </Compile>
+    <Compile Include="回原点编辑.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="归零.Designer.vb">
+      <DependentUpon>归零.vb</DependentUpon>
+    </Compile>
+    <Compile Include="归零.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="恒慧电源测试.Designer.vb">
+      <DependentUpon>恒慧电源测试.vb</DependentUpon>
+    </Compile>
+    <Compile Include="恒慧电源测试.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="控制器配置.Designer.vb">
+      <DependentUpon>控制器配置.vb</DependentUpon>
+    </Compile>
+    <Compile Include="控制器配置.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="暂存器.Designer.vb">
+      <DependentUpon>暂存器.vb</DependentUpon>
+    </Compile>
+    <Compile Include="暂存器.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="流程编辑.Designer.vb">
+      <DependentUpon>流程编辑.vb</DependentUpon>
+    </Compile>
+    <Compile Include="流程编辑.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="系统设置.Designer.vb">
+      <DependentUpon>系统设置.vb</DependentUpon>
+    </Compile>
+    <Compile Include="系统设置.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AirSettingView.resx">
+      <DependentUpon>AirSettingView.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AxisContorl.resx">
+      <DependentUpon>AxisContorl.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AxisMove.resx">
+      <DependentUpon>AxisMove.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AxisSettingView.resx">
+      <DependentUpon>AxisSettingView.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Camra.resx">
+      <DependentUpon>Camra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContorlSetting.resx">
+      <DependentUpon>ContorlSetting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DateEdit.resx">
+      <DependentUpon>DateEdit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Flow.resx">
+      <DependentUpon>Flow.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDemo.resx">
+      <DependentUpon>FormDemo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmChooseCamera.resx">
+      <DependentUpon>FrmChooseCamera.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMC\自动校准轴.resx">
+      <DependentUpon>自动校准轴.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IOControl1.resx">
+      <DependentUpon>IOControl1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IOSetting1.resx">
+      <DependentUpon>IOSetting1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaveDataSetting.resx">
+      <DependentUpon>SaveDataSetting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test.resx">
+      <DependentUpon>Test.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="光谱坐标.resx">
+      <DependentUpon>光谱坐标.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="函数说明.resx">
+      <DependentUpon>函数说明.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="回原点编辑.resx">
+      <DependentUpon>回原点编辑.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="归零.resx">
+      <DependentUpon>归零.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="恒慧电源测试.resx">
+      <DependentUpon>恒慧电源测试.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="控制器配置.resx">
+      <DependentUpon>控制器配置.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="暂存器.resx">
+      <DependentUpon>暂存器.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="流程编辑.resx">
+      <DependentUpon>流程编辑.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\繼續運行-48.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\左.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\下载-48.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\異常清除-48.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stop1NormalRed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_right_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\繼續運行-48.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_left_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BUTIN.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BANG.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grab.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VIDEOCAPXLib">
+      <Guid>{912FB004-DD9A-11D3-BD8D-DAAFCB8D9378}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\无标题.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\无标题1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\无标题q.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\无标题q1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\无标题11.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\radioButton1.Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tool1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\中斷_48.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\登入.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\登入1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\开始.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\开始1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\开始2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\结束.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\复位.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\原点.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\原点1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="PumpLaser.ico" />
+    <None Include="Resources\Image1.bmp" />
+    <None Include="Resources\暂停.png" />
+    <None Include="Resources\ooopic_1488014575.png" />
+    <None Include="Resources\ooopic_14880145751.png" />
+    <None Include="Resources\ooopic_1488014774.png" />
+    <Content Include="Untitled - 1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

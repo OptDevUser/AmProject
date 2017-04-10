@@ -1,0 +1,615 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BrainDll
+</name>
+</assembly>
+<members>
+<member name="M:BrainDll.BrainUserDll.HandleAccess.CreatAccess(System.String)">
+	<summary>
+ CREAT NEW ACCESS FILE
+ </summary>
+	<param name="newsqlpath">NEW ACCESS FILE NAME</param>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.HandleAccess.CreatTable(System.String,System.Collections.Generic.List{System.String},System.String)">
+	<summary>
+ CREAT NEW TABLE
+ </summary>
+	<param name="tablename">TABLE NAME </param>
+	<param name="ColumnName">COLUMNNAME</param>
+	<param name="SqlPath">BE REQURIED ACCESS FILE PATH</param>
+	<remarks>THIS NEW TABLE NAME DONOT EXIT IN THIS ACCESS FILE</remarks>
+</member><member name="M:BrainDll.BrainUserDll.HandleAccess.TableNames(System.String)">
+	<summary>
+ GET ALL TABLE NAME IN ACCESS FILE
+ </summary>
+	<param name="SqlPath">ACCESS FILE PATH</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.HandleAccess.connnection(System.String)">
+	<summary>
+ CONNECT ACCESS FILE
+ </summary>
+	<param name="SqlPath">BE CONNECTED ACCESS FILE PATH</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.HandleAccess.InsertDataToSql(System.String,System.Collections.Generic.List{System.String},System.Collections.Generic.List{System.String},System.String)">
+	<summary>
+ INSERT DATA TO ACCESS FILE
+ </summary>
+	<param name="Tables">TABLE NAME </param>
+	<param name="data">BE INSERTED DATA</param>
+	<param name="SqlPath">ACCESS FILE</param>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.HandleAccess.DeletDataformAccess(System.String,System.String,System.String,System.String)">
+	<summary>
+ DELET DATA FORM ACCESS FILE
+ </summary>
+	<param name="tablename">TBALE NAME</param>
+	<param name="colunmnName">COLUMNNAME</param>
+	<param name="SqlPath">ACCESS FILE PATH</param>
+	<param name="KeyValue">KEY NAME</param>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.HandleAccess.GetDataToDataSet(System.String,System.String)">
+	<summary>
+ Read Access file to dataset
+ </summary>
+	<param name="SqlPath">ACCESS FILE PATH</param>
+	<param name="tablename">TABLE NAME</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.HandleAccess.GetColumnTableName(System.String,System.String)">
+	<summary>
+ Get Access columnName in Table
+ </summary>
+	<param name="SqlPath"></param>
+	<param name="table"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:BrainDll.AgilentDll.cB2901A.IsOpen">
+	<summary>
+ Class B2901A是否开启
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.AgilentDll.cB2901A.InitialPowerDer(System.String)">
+	<summary>
+ 初始化B2901A
+ </summary>
+	<param name="Address"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.AgilentDll.cB2901A.Close">
+	<summary>
+ 关闭B2901A
+ </summary>
+	<remarks></remarks>
+</member><member name="M:BrainDll.AgilentDll.cB2901A.GetPowerID(System.String@)">
+	<summary>
+ 获取设备的ID
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.AgilentDll.cB2901A.GetPowerSupplyRevision(System.String@)">
+	<summary>
+ 获取设备的版本
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.AgilentDll.cB2901A.WriteCmd(System.String,System.Boolean)">
+	<summary>
+ Write Cmd To B2901A
+ </summary>
+	<param name="Cmd"></param>
+	<param name="flushAndEND"></param>
+	<remarks></remarks>
+</member><member name="M:BrainDll.AgilentDll.cB2901A.ReadResponse(System.String@)">
+	<summary>
+ ReadResponse For B2901A
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.AgilentDll.cB2901A.ReadVoltDCValue(System.Double@)">
+	<summary>
+ Read Volt DC
+ </summary>
+	<returns>Single Value</returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.AgilentDll.cB2901A.ReadCurrentDCValue(System.Double@)">
+	<summary>
+ Read Current DC
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.AgilentDll.cB2901A.ReadVoltDCValuelist(System.Double[]@)">
+	<summary>
+ Read Volt DC
+ </summary>
+	<returns>more Vlaue</returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.AgilentDll.cB2901A.DisplayZoom(System.Boolean)">
+	<summary>
+ Display zoom
+ </summary>
+	<param name="flag"></param>
+	<remarks></remarks>
+</member><member name="M:BrainDll.AgilentDll.cB2901A.SetFrequency(System.Int32)">
+	<summary>
+ SetFrequency
+ </summary>
+	<param name="HZValue"></param>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.AE_Exception.SaveExceptionObj(System.Exception,System.String)">
+	<summary>
+  例外存檔
+ </summary>
+	<param name="ex">例外資料</param>
+	<param name="SavePath">儲存資料夾路徑</param>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.AE_Exception.App_UnhandledException(System.Object,System.UnhandledExceptionEventArgs)">
+	<summary>
+ 當掉將自動存檔後異常退出
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.AE_Exception.MyApplication_UnhandledException(System.Object,Microsoft.VisualBasic.ApplicationServices.UnhandledExceptionEventArgs)">
+	<summary>
+ 程式發生UnhandleException時叫用,當掉將自動存檔後異常退出
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.ChangeLanguage.SetLang(System.String,System.Windows.Forms.Form,System.Type)">
+	<summary>
+ 設定目前視窗的界面語言
+ </summary>
+	<param name="lang">language CultureInfo like:zh-CN, en-US</param>
+	<param name="tForm">視窗實例</param>
+	<param name="formType">視窗的類別</param>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.ChangeLanguage.SetLang(System.Globalization.CultureInfo,System.Windows.Forms.Form,System.Type)">
+	<summary>
+ 設定目前視窗的界面語言
+ </summary>
+	<param name="lang">language CultureINFo:zh-CN, en-US</param>
+	<param name="tForm">視窗實例</param>
+	<param name="formType">視窗的類別</param>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.ChangeLanguage.SetLang(System.Globalization.CultureInfo,System.Windows.Forms.Control,System.Type)">
+	<summary>
+ 設定目前視窗的界面語言
+ </summary>
+	<param name="lang">language CultureINFo:zh-CN, en-US</param>
+	<param name="crl">控制項實例</param>
+	<param name="crlType">控制項類別</param>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.ChangeLanguage.AppLang(System.Windows.Forms.Control,System.ComponentModel.ComponentResourceManager)">
+	<summary>
+ 設定所有Control的語言
+ </summary>
+	<param name="crl"></param>
+	<param name="res"></param>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.ChangeLanguage.Applang(System.Windows.Forms.ToolStripMenuItem,System.ComponentModel.ComponentResourceManager)">
+	<summary>
+ apply all menu item
+ </summary>
+	<param name="item"></param>
+	<param name="res"></param>
+	<remarks></remarks>
+</member><member name="M:BrainDll.MitsubishiPlc.PlcCom.Inital(System.String)">
+	<summary>
+ Plc Com Port ﹍て籔硈钡
+ </summary>
+	<param name="PortName">Com Port 嘿</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.MitsubishiPlc.PlcCom.Connect">
+	<summary>
+ Plc Com Port 硈钡
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.MitsubishiPlc.PlcCom.DisConnect">
+	<summary>
+  Plc Com Port耞秨
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.MitsubishiPlc.PlcCom.WritePlcData(System.String)">
+	<summary>
+ 盢戈祇癳PLC
+ </summary>
+	<param name="SendMsg">糶﹃</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.MitsubishiPlc.PlcCom.ReadPlcData(System.String)">
+	<summary>
+ 弄PLC戈
+ </summary>
+	<param name="SendMsg"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.MitsubishiPlc.PlcCom.WriteDeviceString(System.String,System.String,BrainDll.MitsubishiPlc.PlcCom.WriteStringFormat)">
+	<summary>
+  糶PLC ゅ戈(ASC2)
+ </summary>
+	<param name="szDevice">翴嘿</param>
+	<param name="lpdwData">戈(ASC2)</param>
+	<param name="WriteFormat">糶よΑ</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.MitsubishiPlc.PlcCom.ReadDeviceString(System.String,System.Int32,System.String[]@)">
+	<summary>
+ 弄PLC ゅ戈
+ </summary>
+	<param name="szDevice">翴嘿</param>
+	<param name="dwSize">戈</param>
+	<param name="lpdwData">肚</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.MitsubishiPlc.PlcCom.ReadDeviceData(System.String,System.Int32,System.Int16[]@,System.Boolean)">
+	<summary>
+ 弄PLC 计戈
+ </summary>
+	<param name="szDevice">翴嘿</param>
+	<param name="dwSize">戈</param>
+	<param name="lpdwData">肚</param>
+	<param name="PositiveOnly">弄タ俱计</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.MitsubishiPlc.PlcCom.WriteDeviceData(System.String,System.Int16[])">
+	<summary>
+ 糶PLC 计戈
+ </summary>
+	<param name="szDevice">糶翴</param>
+	<param name="lpdwData">糶戈</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.MitsubishiPlc.PlcCom.ReadInt32Data(System.String,System.Int32,System.Int32[]@,System.Boolean,BrainDll.MitsubishiPlc.PlcCom.DoubleFormat)">
+	<summary>
+ 弄PLC 32 じ计戈
+ </summary>
+	<param name="szDevice">癬﹍翴嘿</param>
+	<param name="dwSize">弄戈</param>
+	<param name="lpdwData">肚</param>
+	<param name="PositiveOnly">弄タ俱计</param>
+	<param name="Type">弄抖</param>
+	<returns>琌Θ</returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.MitsubishiPlc.PlcCom.WriteInt32Data(System.String,System.Int32[],BrainDll.MitsubishiPlc.PlcCom.DoubleFormat)">
+	<summary>
+ 糶PLC 32 じ计戈
+ </summary>
+	<param name="szDevice">癬﹍翴嘿</param>
+	<param name="lpdwData">糶戈</param>
+	<param name="Type">糶抖</param>
+	<returns>琌Θ</returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.MitsubishiPlc.PlcCom.IntegerToBinary(System.Int32)">
+	<summary>
+ 计锣じ皚
+ </summary>
+	<param name="Data">计</param>
+	<returns>binary皚</returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.HandleDatagridview.AddDataToView(System.Collections.Generic.List{System.String},System.String)">
+	<summary>
+ Add infodata into DataGridView
+ </summary>
+	<param name="info">InfoData</param>
+	<param name="path">Infodata log</param>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.NetComm.TcpClientObject.Write(System.String)">
+	<summary>
+ 發送數據
+ </summary>
+	<param name="msg">發送的數據</param>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.NetComm.TcpClientObject.Close">
+	<summary>
+ 關閉Socket連線
+ </summary>
+	<remarks></remarks>
+</member><member name="P:BrainDll.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:BrainDll.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:BrainDll.My.Resources.Resources.an_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BrainDll.My.Resources.Resources.an_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BrainDll.My.Resources.Resources.b1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BrainDll.My.Resources.Resources.b2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BrainDll.My.Resources.Resources.bg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BrainDll.My.Resources.Resources.bg_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BrainDll.My.Resources.Resources.bg_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BrainDll.My.Resources.Resources.DAOTABLE">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:BrainDll.My.Resources.Resources.DAOTABLE1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:BrainDll.My.Resources.Resources.favicon_3_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:BrainDll.My.Resources.Resources.favicon_3_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:BrainDll.My.Resources.Resources.j_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BrainDll.My.Resources.Resources.login">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BrainDll.My.Resources.Resources.login_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BrainDll.My.Resources.Resources.login_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BrainDll.My.Resources.Resources.PORTTOOL">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:BrainDll.My.Resources.Resources.PORTTOOL1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:BrainDll.My.Resources.Resources.t015ca73751c55d0d35">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BrainDll.My.Resources.Resources.TEXT">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:BrainDll.My.Resources.Resources.TEXT1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:BrainDll.My.Resources.Resources.USER">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:BrainDll.My.Resources.Resources.USER1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="T:BrainDll.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:BrainDll.BrainUserDll.NetComm.SocketCom.IsListen">
+	<summary>
+ セ狠琌秨币
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.NetComm.SocketCom.CheckRomateIP(System.String)">
+	<summary>
+ 环狠IP絋粄
+ </summary>
+	<param name="IP">絋粄IP</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.NetComm.SocketCom.GetLocalIP(System.String)">
+	<summary>
+ 碝т籔絋粄セIP
+ </summary>
+	<param name="LocalIP">絋粄セIP</param>
+	<returns>セIP</returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.NetComm.SocketCom.GetRemoteIP(System.String)">
+	<summary>
+ 眔环狠IP
+ </summary>
+	<param name="RemoteName">环狠诀嘿/IP</param>
+	<returns>环狠IP</returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.NetComm.SocketCom.Initial(System.String,System.Int32,System.String)">
+	<summary>
+ TCP ﹍て
+ </summary>
+	<param name="UserName">璹竡嘿</param>
+	<param name="UsePort">セ狠</param>
+	<param name="LocalIP">セIP┪诀嘿</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.NetComm.SocketCom.Close">
+	<summary>
+  TCP闽超
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.NetComm.SocketCom.SendData(System.String,System.Int32,System.String,System.Boolean)">
+	<summary>
+ 祇癳癟
+ </summary>
+	<param name="ReciveIP">环狠竚</param>
+	<param name="RecivePort">环狠Port</param>
+	<param name="Data">祇癳癟</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.NetComm.SocketCom.SendData(BrainDll.BrainUserDll.NetComm.SocketCom.ComInfo,System.String,System.Boolean)">
+	<summary>
+ 祇癳癟
+ </summary>
+	<param name="Reciver">环狠竚戈癟摸</param>
+	<param name="Data">祇癳癟</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:BrainDll.BrainUserDll.NetComm.SocketCom.ComInfo">
+	<summary>
+ IP 戈
+ </summary>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.GlobalTool.Tool.DeleteExpireAll(System.String,System.Int32)">
+	<summary>
+ 埃癸禜戈Жず筁戳郎籔戈Ж
+ </summary>
+	<param name="Path">埃癸禜戈Ж隔畖</param>
+	<param name="HoldDay">玂戳(ぱ)</param>
+	<remarks>PC讽玡ら戳搭玂丁,埃丁ぇ玡郎籔戈Ж</remarks>
+</member><member name="M:BrainDll.BrainUserDll.GlobalTool.Tool.DeleteExpireFolder(System.String,System.Int32)">
+	<summary>
+ 埃癸禜戈Жず筁戳戈Ж
+ </summary>
+	<param name="path">埃癸禜戈Ж隔畖</param>
+	<param name="holdDay">玂戳(ぱ)</param>
+	<remarks>PC讽玡ら戳搭玂丁,埃丁ぇ玡戈Ж</remarks>
+</member><member name="M:BrainDll.BrainUserDll.GlobalTool.Tool.DeleteExpireFile(System.String,System.Int32)">
+	<summary>
+ 埃癸禜戈Жず筁戳郎
+ </summary>
+	<param name="Path">埃癸禜戈Ж隔畖</param>
+	<param name="holdDay">玂戳(ぱ)</param>
+	<remarks>PC讽玡ら戳搭玂丁,埃丁ぇ玡郎</remarks>
+</member><member name="M:BrainDll.BrainUserDll.GlobalTool.Tool.ToSave``1(``0,System.String,System.Data.SerializationFormat)">
+	<summary>
+ 盢Class戈Θ郎
+ </summary>
+	<typeparam name="T"> 癸禜摸 </typeparam>
+	<param name="obj">癸禜ン</param>
+	<param name="Path">郎隔畖</param>
+	<param name="MySerializType">郎よΑ( Binary or XML) </param>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.GlobalTool.Tool.ToTryLoad``1(``0@,``0,System.String,System.Data.SerializationFormat)">
+	<summary>
+ 眖郎弄Class戈
+ </summary>
+	<typeparam name="T">癸禜摸</typeparam>
+	<param name="Obj">癸禜ン</param>
+	<param name="TestObj ">沽刚弄ン</param>
+	<param name="Path">弄郎隔畖</param>
+	<param name="MySerializType">弄郎よΑ( Binary or XML)</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.GlobalTool.Tool.GetImageData(System.String)">
+	<summary>
+ Image Convert To Byte
+ </summary>
+	<param name="filepath">Image file path</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.GlobalTool.Tool.GetImageData(System.Drawing.Image)">
+	<summary>
+ Image Convert To Byte
+ </summary>
+	<param name="img">System.Drawing.Image</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.GlobalTool.Tool.GetDataImage(System.Byte[])">
+	<summary>
+ Byte Convert To Image
+ </summary>
+	<param name="imagebuffer">ImageByte</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.GlobalTool.Tool.SetDoubleBufferd(System.Windows.Forms.Control)">
+	<summary>
+ Set control's DoubleBuffered property to speed up the screen update rate and reduce flickerring.
+ </summary>
+	<param name="mcontrol"></param>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.GlobalTool.Tool.GetControlsInContainer(System.Windows.Forms.Control)">
+	<summary>
+ Get a list of all controls in the container control.
+ </summary>
+	<param name="containerControl"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:BrainDll.BrainUserDll.GlobalTool.Tool.IsRegist">
+	<summary>
+ 是否注册成功
+ </summary>
+	<remarks></remarks>
+</member><member name="F:BrainDll.BrainUserDll.GlobalTool.Tool.TryRunTimes">
+	<summary>
+软件试用次数
+ </summary>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.GlobalTool.Tool.GetHashValueString(System.String,BrainDll.BrainUserDll.GlobalTool.Tool.HashAlgorithmType)">
+	<summary>
+ MD5 Hash Value String
+ </summary>
+	<param name="Data"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.GlobalTool.Tool.Encrypt(System.String)">
+	<summary>
+  DES 盞
+ </summary>
+	<param name="data"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.GlobalTool.Tool.Decrpyt(System.String)">
+	<summary>
+ Des 秆絏
+ </summary>
+	<param name="data"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.PlcForOmrn.DisConnect">
+	<summary>
+  Plc Com Port耞秨
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.PlcForOmrn.ReadDM(System.String,System.String@,System.Int32)">
+	<summary>
+ 读取PLC内部数据
+ </summary>
+	<param name="Address">要写读取数据的首地址</param>
+	<param name="Value">数据存放位置</param>
+	<param name="CH">单字=1；双字=2</param>
+	<returns>成功返回True;失败返回False</returns>
+	<remarks></remarks>
+</member><member name="M:BrainDll.BrainUserDll.PlcForOmrn.WriteDM(System.String,System.String@,System.Int32)">
+	<summary>
+ 向PLC内部地址写数据
+ </summary>
+	<param name="Address">要写入的首地址</param>
+	<param name="Value">要写入的值（低位在前，高位在后）</param>
+	<param name="CH">单字=1；双字=2</param>
+	<returns>成功返回True;失败返回False</returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
