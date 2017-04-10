@@ -5,8 +5,8 @@ Imports Microsoft.VisualBasic
 Imports PumpLaser_Automation.cIMCHandle
 Imports PumpLaser_Automation.AxisInfo
 '
-' 全局模块 | 公共函数和变量
-'
+' 全局模块 | 公共函数和变量 17-04-10 Justin
+' 
 Module mGlobal
 
 #Region "Var"
